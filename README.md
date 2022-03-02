@@ -7,6 +7,7 @@ Let there be light!
 Hello, World!
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 On Git Bash, type following commands 
 
 1. git config --global user.name USERNAME
